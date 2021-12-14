@@ -2,6 +2,7 @@
 Introduction to Functional Programming and Scala Language
 
 Feygelman Andrey
+
 ---
 
 I created a basic API with no authentication system 
