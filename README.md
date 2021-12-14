@@ -1,7 +1,7 @@
 # Individual Project Submission
-Introduction to Functional Programming and Scala Language
+Introduction to Functional Programming and Scala Language course
 
-Feygelman Andrey
+--- Feygelman Andrey
 
 ---
 
